@@ -1,5 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+It will give the information regarding the cases of Novel Corona Virus cases in whole world. It also includes the number of deaths, active cases and number of recovered patients. 
 ## Available Scripts
 
 In the project directory, you can run:
